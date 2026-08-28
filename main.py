@@ -6,4 +6,3 @@ def say_hi() -> str:
 
 if __name__ == "__main__":
     say_hi()
-
